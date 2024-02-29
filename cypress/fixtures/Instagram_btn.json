@@ -1,0 +1,14 @@
+{
+  "keyword": "instagram_btn",
+  "type":"button",
+  "function": [
+                {
+                  "click":"https://www.instagram.com/nttdataplus/"
+                },
+                {
+                  "label":"Follow on Instagram"
+                }
+
+  ]
+  
+}

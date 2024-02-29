@@ -1,0 +1,23 @@
+{
+  "name": "cypress_test",
+  "version": "1.0.0",
+  "description": "Showcase App",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "eslint": "^8.26.0",
+    "eslint-plugin-react": "^7.31.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "vite": "^3.1.8",
+    "vue": "^3.2.41",
+    "webpack": "^5.74.0"
+  }
+}
